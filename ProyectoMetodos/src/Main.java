@@ -12,6 +12,7 @@ public class Main {
         Calculadora operacionesMatermaticas = new Calculadora();
         operacionesMatermaticas.sumar(1,2);
         operacionesMatermaticas.restar(4,3);
+        operacionesMatermaticas.multiplicar(7,3);
 
         /*
         String data="Maria";
