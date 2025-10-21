@@ -8,6 +8,6 @@ public class Main {
         //  ejercicio.ejercicio1(); //nombreVariable.nombreMetodo(de la otra clase)
         // ejercicio.ejercicio02();
         ejercicio.ejercicio03();
-     // ejercicio.ejercicio4();
+        // ejercicio.ejercicio4();
     }
 }

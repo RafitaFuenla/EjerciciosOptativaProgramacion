@@ -110,7 +110,6 @@ public class Ejercicio {
         System.out.println("Unidades: "+unidades);
     }
 
-
     public void ejercicio4() {
 
         // Hágase un programa que convierta segundos en horas, minutos y segundos.
